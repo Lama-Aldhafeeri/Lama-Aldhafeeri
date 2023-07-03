@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... - 🔭 I’m currently working on **AI projects**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,17 +17,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Lama Aldhafeeri</h1>
 <h3 align="center">Full Stack Devolder</h3>
 
-- 🔭 I’m currently working on **AI projects**
 
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Web Devlopment and AI projects**
 
-- All my projects available on.. [https://fantastic-strudel-6fcc6d.netlify.app/](https://fantastic-strudel-6fcc6d.netlify.app/)
+- All my projects available on [https://fantastic-strudel-6fcc6d.netlify.app/](https://fantastic-strudel-6fcc6d.netlify.app/)
 
 - 💬 Ask me about **AI, Web Development**
-
-- 📫 How to reach me **lama.aldhafeer@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PCLiv1hdyu0tOp_Ta6Ykvyu7HtwwBB78/view](https://drive.google.com/file/d/1PCLiv1hdyu0tOp_Ta6Ykvyu7HtwwBB78/view)
 
