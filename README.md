@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Full Stack Devolder</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Web Devlopment and AI projects**
 
