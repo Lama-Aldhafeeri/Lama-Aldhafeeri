@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Web Devlopment and AI projects**
+- 👯 I’m looking to collaborate on **Mobile / Web Devlopment or AI projects**
 
 - All my projects available on [https://fantastic-strudel-6fcc6d.netlify.app/](https://fantastic-strudel-6fcc6d.netlify.app/)
 
