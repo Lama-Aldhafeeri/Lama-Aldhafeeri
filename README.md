@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 - All my projects available on [https://fantastic-strudel-6fcc6d.netlify.app/](https://fantastic-strudel-6fcc6d.netlify.app/)
 
 - 💬 Ask me about **AI, Web Development**
-
+<!--
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PCLiv1hdyu0tOp_Ta6Ykvyu7HtwwBB78/view](https://drive.google.com/file/d/1PCLiv1hdyu0tOp_Ta6Ykvyu7HtwwBB78/view)
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lx0100x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lx0100x" height="30" width="40" /></a>
