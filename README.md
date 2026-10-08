@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <h3 align="center">Full Stack Devolder</h3>
 
 
-- 🌱 I’m currently learning **Flutter**
-
 - 👯 I’m looking to collaborate on **Mobile / Web Devlopment or AI projects**
 
 - All my projects available on [https://lama-aldhafeeri.web.app/](https://lama-aldhafeeri.web.app/)
